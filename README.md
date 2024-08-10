@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on any web development and ai integrated project building.
 - 📫 How to reach me , email : rishikeshkumar39936@gmail.com
 - 😄 Pronouns: He
-- ⚡ Fun fact: Nothing funny, I am serious
+- ⚡ Fun fact: "Nothing funny, I am serious."
 
 <!---
 Rishikesh623/Rishikesh623 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
