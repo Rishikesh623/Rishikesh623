@@ -1,6 +1,6 @@
 # 💫 About Me:
 👋 Hi, I’m @Rishikesh623<br>👀 I’m interested in web development and data structures and algorithms<br>🌱 I’m currently pursuing undergraduate degree in Computer Science & Engineering<br>💞️ I’m looking to collaborate on any web development and ai integrated project building.<br>📫 How to reach me , email : rishikeshkumar39936@gmail.com<br>😄 Pronouns: He<br>
-<!-->⚡ Fun fact: "Nothing funny, I am serious."<!-->
+<!--⚡ Fun fact: "Nothing funny, I am serious."-->
 
 
 ## 🌐 Socials:
